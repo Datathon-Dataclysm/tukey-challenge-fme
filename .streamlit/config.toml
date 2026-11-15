@@ -1,0 +1,9 @@
+# Streamlit theme (colours and font for the whole app). Put this folder in the project root,
+# i.e. where you run `streamlit run tools/dashboard.py`. Restart Streamlit after editing.
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#fcfcfb"
+secondaryBackgroundColor = "#f3f2ef"
+textColor = "#0b0b0b"
+font = "sans serif"

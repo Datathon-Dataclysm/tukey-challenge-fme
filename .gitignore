@@ -1,0 +1,5 @@
+# secrets: never commit the RawTree key
+.env
+__pycache__/
+*.pyc
+.venv/
